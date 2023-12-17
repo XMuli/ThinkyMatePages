@@ -2,7 +2,7 @@
   <p>
       <h1>
       <a href="https://thinkymate.com">
-          <img src="docs/snapshoot/logo-text.png" width="100%" alt="ThinkyMate"/>
+          <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180312618.png" width="100%" alt="ThinkyMate"/>
       </a>
     </h1>
     <br/>
@@ -12,7 +12,7 @@
   </p>
 </div>
 <div align="center">
-  <p align="right"><br><a href="index.md">English</a> | <a href="index.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="https://thinkymate.com/">English</a> | <a href="https://github.com/XMuli/ThinkyMatePages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
 
 
@@ -20,27 +20,42 @@
 
 ## Preview
 
-<img src="docs/snapshoot/1.png" width="100%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180314212.png" width="100%"/>
 
-<img src="docs/snapshoot/2.png" width="100%"/>
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180319043.png" width="100%"/>
 
 
+
+## Office
+
+
+| Title | URL                                                          |
+| ----- | ------------------------------------------------------------ |
+| Site  | [thinkymate.com](https://thinkymate.com/)                    |
+| Down  | [release](https://github.com/XMuli/ThinkyMatePages/releases) |
+| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki)        |
 
 ## Features
 
-**Celebrate with the release of the official first version v1.0.0!** 🎉🎉🎉🎊🎊🎊
+**Simple and easy to use desktop application for ChatGPT & AI!** 🎉🎉🎉🎊🎊🎊
 
 **ChatGPT & AI:**
 
-- Support speech-to-text direct questioning speech-to-text (STT)
+- No need to register and login any account to use
+- Use all the features of ChatGPT and SparkDesk Chat and Voice **without logging in.**
 - Support ChatGPT and SparkDesk AI Model
-- Support text to speech function text-to-speech (TTS)
+- Supports scene context support with drawing record memory
+- Supports using private API KEY to use related functions.
+- Support bubble mode and plain text mode
 - Support display mode switching: streaming (typewriter) + regular response
 - Support theme change: MacOS, Ubuntu, Windows, Diablo mode
 - API Key encryption by AES_256 + CBC algorithm, password box input
 - Cross-platform support (Windows, MacOS, Linux OS)
+- More features to explore and discover
 
 **Voice:**
+
+- Support text to speech(TTS) and text-to-speech (TTS)  function 
 
 - Support hardware HeadSet headset linkage extension
 - Support automatic intelligent phrase and conversion, more fluent and natural
@@ -57,7 +72,7 @@
    - Enter XunFei Key to use SparkDesk function
    - Enter BaiDu Key to use the text-to-speech function
 4. Enter your voice or text and enjoy using ChatGPT features!
-5. For more preview images see [here](https://github.com/XMuli/ThinkyMatePages/docs/snapshoot/)
+5. For more preview images see [here](https://github.com/XMuli/ThinkyMatePages/tree/master/docs/snapshoot)
 
 
 
