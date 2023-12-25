@@ -30,7 +30,7 @@ layout: default
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180319043.png" width="100%"/>
 
-
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312260051579.gif" width="100%"/>
 
 ## Office
 
