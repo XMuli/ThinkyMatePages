@@ -26,20 +26,44 @@ layout: default
 
 ## Preview
 
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312260051579.gif" width="100%"/>
+
+<br>
+
+<br>
+
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180314212.png" width="100%"/>
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180319043.png" width="100%"/>
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312260051579.gif" width="100%"/>
+<br>
 
 ## Office
 
+**Description:** Developed ThinkyMate, a clean and easy to use desktop application for ChatGPT & AI; cross-platform and can be used without login or registration. Blogger's account Key is already built-in, and users can also have their own private API-KEY.
 
-| Title | URL                                                          |
-| ----- | ------------------------------------------------------------ |
-| Site  | [thinkymate.com](https://thinkymate.com/)                    |
-| Down  | [release](https://github.com/XMuli/ThinkyMatePages/releases) |
-| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki)        |
+| Title | URL                                                   |
+| ----- | ----------------------------------------------------- |
+| Site  | [thinkymate.com](https://thinkymate.com/)             |
+| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki) |
+
+<br>
+
+## Download       
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202401142327308.png" width="60%"/>
+
+- [GitHub](https://github.com/XMuli/ThinkyMatePages/releases)         |       [Microsoft Store](https://www.bilibili.com/video/BV12a4y1z7CA)        |        [Gitee](https://gitee.com/XMuli/ThinkyMatePages/releases) 
+
+<br>
+
+## Video
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202401142333123.png" width="60%"/>
+
+- [YoutTube](https://www.youtube.com/watch?v=rRWHK_HzL88)        |       [bilibili](https://www.bilibili.com/video/BV12a4y1z7CA)
+
+<br>
 
 ## Features
 
@@ -67,7 +91,15 @@ layout: default
 - Support automatic intelligent phrase and conversion, more fluent and natural
 - Support modifying speech speed and replacing voice library
 
+<br>
 
+## Microsoft Store
+
+Once signed, it can be shelved on Microsoft Store; it can also be shelved on third-party XX Software Manager / mall. When I have time next time, I will write a separate article to introduce the whole process in detail;
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312282206422.png" width="100%"/>
+
+<br>
 
 ## Tutorials
 
@@ -80,29 +112,42 @@ layout: default
 4. Enter your voice or text and enjoy using ChatGPT features!
 5. For more preview images see [here](https://github.com/XMuli/ThinkyMatePages/tree/master/docs/snapshoot)
 
-
+<br>
 
 ## Great
 
 If it helps you, or find it useful,  **you can click on the item's ⭐Star 🍴 Fork  of the two icons, conveniently lift the hand between, said a point of praise the hand,** There is a fragrance in your hand；The next best thing is to buy me a cold Coke.  
 
-
+<br>
 
 ## Feedback
 
 How to Feedback ? You are very welcome to join us! You can [open an issue](https://github.com/XMuli/ThinkyMatePages/issues) ; for any bug, suggestion, feature idea, or to help improve this software.
 
-
+<br>
 
 ## Author
 
-xmulitech@gmail.com    |    https://thinkymate.com
+|    Title    |                            Detail                            |
+| :---------: | :----------------------------------------------------------: |
+| WeChat / QQ | [252311126](https://wpa.qq.com/authd?IDKEY=31f3ef7312b39e2c8dc822ae2f4c3b3118e1a6f31cc83373) |
+|   GitHub    |              [XMuli](https://github.com/XMuli)               |
+|  Telegram   |                 [xmuli](https://t.me/xmuli)                  |
+|   E-mail    |                     xmulitech@gmail.com                      |
 
+<br>
 
+## Series address
+
+[QtExamples](https://github.com/XMuli/QtExamples) Welcome `star` ⭐ and `fork` 🍴 This series of `C++ / QT / DTK` studies, with a catalogue of studies from the beginning to the end of the series, where you can learn how to write this kind of software yourself. This is a complete series of tutorials and **forever free**!"
+
+<br>
 
 ## More
 
 When I think of it, I'll add it here or on the wiki.
+
+
 
 
 

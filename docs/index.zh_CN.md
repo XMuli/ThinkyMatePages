@@ -22,25 +22,46 @@ layout: default
 </div>
 
 
-
-
 ## Preview
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312260051579.gif" width="100%"/>
+
+<br>
+
+<br>
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180314212.png" width="100%"/>
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180319043.png" width="100%"/>
 
-<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312260051579.gif" width="100%"/>
+<br>
 
 ## 网址
 
-| Title | URL                                                          |
-| ----- | ------------------------------------------------------------ |
-| Site  | [thinkymate.com](https://thinkymate.com/)                    |
-| Down  | [release](https://github.com/XMuli/ThinkyMatePages/releases) |
-| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki)        |
+**简  述:**  开发了一个简洁且易用的 ChatGPT & AI 的桌面应用程序 ThinkyMate；跨平台，无需登录或注册即可使用。 已经内置博主的账号 Key，用户也可以自己的私人 API-KEY。
 
+| Title | URL                                                   |
+| ----- | ----------------------------------------------------- |
+| Site  | [thinkymate.com](https://thinkymate.com/)             |
+| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki) |
 
+<br>
+
+## 下载
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202401142327308.png" width="60%"/>
+
+- [GitHub](https://github.com/XMuli/ThinkyMatePages/releases)         |       [Microsoft Store](https://www.bilibili.com/video/BV12a4y1z7CA)        |        [Gitee](https://gitee.com/XMuli/ThinkyMatePages/releases) 
+
+<br>
+
+## 视频
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202401142333123.png" width="60%"/>
+
+- [YoutTube](https://www.youtube.com/watch?v=rRWHK_HzL88)        |       [bilibili](https://www.bilibili.com/video/BV12a4y1z7CA)
+
+<br>
 
 ## 功能
 
@@ -70,6 +91,18 @@ layout: default
 
 
 
+## 上架 Microsoft Store
+
+当签上名后，就可上架 Microsoft Store ；也可以上架三方 XX 软件管家/ 商城。这部分下次有空时，另单独写一篇，详细介绍上架流程全程；
+
+<img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312282206422.png" width="100%"/>
+
+下载地址：[GitHub](https://github.com/XMuli/ThinkyMatePages/releases) ，这是一个ChatGPT 免费使用的跨平台客户端；更多介绍参见官网 [thinkymate.com](https://thinkymate.com/) 。
+
+<br>
+
+
+
 ## 教程
 
 1. [下载](https://github.com/XMuli/ThinkyMatePages/releases) 软件包并安装
@@ -83,7 +116,7 @@ layout: default
 
 
 
-## 太棒了
+## 贡献
 
 如果对您有帮助，或者觉得有用，**您可以点击该仓库的⭐ Star 🍴 Fork 两个图标，方便抬手之间，说点赞的手，** 手留余香；其次可以我喝一杯冰的快乐水。 
 
@@ -97,10 +130,26 @@ layout: default
 
 ## 作者
 
-xmulitech@gmail.com | https://thinkymate.com
+|    Title    |                            Detail                            |
+| :---------: | :----------------------------------------------------------: |
+| WeChat / QQ | [252311126](https://wpa.qq.com/authd?IDKEY=31f3ef7312b39e2c8dc822ae2f4c3b3118e1a6f31cc83373) |
+|   GitHub    |              [XMuli](https://github.com/XMuli)               |
+|  Telegram   |                 [xmuli](https://t.me/xmuli)                  |
+|   E-mail    |                     xmulitech@gmail.com                      |
+
+
+
+
+
+## 系列地址
+
+[QtExamples](https://github.com/XMuli/QtExamples) 欢迎 `star` ⭐ 和 `fork` 🍴 这个系列的 `C++ / QT / DTK` 学习，附学习由浅入深的目录，这里你可以学到如何亲自编写这类软件的经验，这是一系列完整的教程，并且**永久免费**！"
 
 
 
 ## 更多
 
 当我想到时，我会把它添加到这里或维基上。
+
+
+
