@@ -7,7 +7,7 @@ layout: default
 <div align="center">
   <p>
       <h1>
-      <a href="https://thinkymate.com">
+      <a href="https://thinkymate.xmuli.tech">
           <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180312618.png" width="100%" alt="ThinkyMate"/>
       </a>
     </h1>
@@ -18,7 +18,7 @@ layout: default
   </p>
 </div>
 <div align="center">
-  <p align="right"><br><a href="https://thinkymate.com/">English</a> | <a href="https://github.com/XMuli/ThinkyMatePages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="https://thinkymate.xmuli.tech/">English</a> | <a href="https://github.com/XMuli/ThinkyMate/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
 
 
@@ -42,8 +42,8 @@ layout: default
 
 | Title | URL                                                   |
 | ----- | ----------------------------------------------------- |
-| Site  | [thinkymate.com](https://thinkymate.com/)             |
-| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki) |
+| Site  | [thinkymate.xmuli.tech](https://thinkymate.xmuli.tech/)             |
+| Guide | [wiki](https://github.com/XMuli/ThinkyMate/wiki) |
 
 <br>
 
@@ -51,7 +51,7 @@ layout: default
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202401142327308.png" width="60%"/>
 
-- [GitHub](https://github.com/XMuli/ThinkyMatePages/releases)         |       [Microsoft Store](https://www.bilibili.com/video/BV12a4y1z7CA)        |        [Gitee](https://gitee.com/XMuli/ThinkyMatePages/releases) 
+- [GitHub](https://github.com/XMuli/ThinkyMate/releases)         |       [Microsoft Store](https://www.bilibili.com/video/BV12a4y1z7CA)        |        [Gitee](https://gitee.com/XMuli/ThinkyMate/releases) 
 
 <br>
 
@@ -97,7 +97,7 @@ layout: default
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312282206422.png" width="100%"/>
 
-下载地址：[GitHub](https://github.com/XMuli/ThinkyMatePages/releases) ，这是一个ChatGPT 免费使用的跨平台客户端；更多介绍参见官网 [thinkymate.com](https://thinkymate.com/) 。
+下载地址：[GitHub](https://github.com/XMuli/ThinkyMate/releases) ，这是一个ChatGPT 免费使用的跨平台客户端；更多介绍参见官网 [thinkymate.xmuli.tech](https://thinkymate.xmuli.tech/) 。
 
 <br>
 
@@ -105,14 +105,14 @@ layout: default
 
 ## 教程
 
-1. [下载](https://github.com/XMuli/ThinkyMatePages/releases) 软件包并安装
+1. [下载](https://github.com/XMuli/ThinkyMate/releases) 软件包并安装
 2. Tray Mail 上下文菜单，打开高级设置
 3. 输入 API KEY 以启用相应功能（可选）；请重启软件以确保其生效。
    - 输入 OpenAI 密钥以使用 ChatGPT 功能和语音转文字功能
    - 输入讯飞密钥，使用火花桌面功能
    - 输入白度密钥使用文本转语音功能
 4. 输入语音或文本，享受 ChatGPT 功能！
-5. 更多预览图片请参阅 [这里](https://github.com/XMuli/ThinkyMatePages/tree/master/docs/snapshoot)
+5. 更多预览图片请参阅 [这里](https://github.com/XMuli/ThinkyMate/tree/master/docs/snapshoot)
 
 
 
@@ -124,7 +124,7 @@ layout: default
 
 ## 反馈
 
-如何反馈？非常欢迎您加入我们！您可以 [提一个反馈](https://github.com/XMuli/ThinkyMatePages/issues) ;提出任何错误、建议、功能设想，或帮助改进本软件。
+如何反馈？非常欢迎您加入我们！您可以 [提一个反馈](https://github.com/XMuli/ThinkyMate/issues) ;提出任何错误、建议、功能设想，或帮助改进本软件。
 
 
 

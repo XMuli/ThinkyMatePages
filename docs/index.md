@@ -7,7 +7,7 @@ layout: default
 <div align="center">
   <p>
       <h1>
-      <a href="https://thinkymate.com">
+      <a href="https://thinkymate.xmuli.tech">
           <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202312180312618.png" width="100%" alt="ThinkyMate"/>
       </a>
     </h1>
@@ -18,7 +18,7 @@ layout: default
   </p>
 </div>
 <div align="center">
-  <p align="right"><br><a href="https://thinkymate.com/">English</a> | <a href="https://github.com/XMuli/ThinkyMatePages/blob/master/docs/index.zh_CN.md">简体中文</a></p>
+  <p align="right"><br><a href="https://thinkymate.xmuli.tech/">English</a> | <a href="https://github.com/XMuli/ThinkyMate/blob/master/docs/index.zh_CN.md">简体中文</a></p>
 </div>
 
 
@@ -44,8 +44,8 @@ layout: default
 
 | Title | URL                                                   |
 | ----- | ----------------------------------------------------- |
-| Site  | [thinkymate.com](https://thinkymate.com/)             |
-| Guide | [wiki](https://github.com/XMuli/ThinkyMatePages/wiki) |
+| Site  | [thinkymate.xmuli.tech](https://thinkymate.xmuli.tech/)             |
+| Guide | [wiki](https://github.com/XMuli/ThinkyMate/wiki) |
 
 <br>
 
@@ -53,7 +53,7 @@ layout: default
 
 <img src="https://fastly.jsdelivr.net/gh/XMuli/xmuliPic@pic/2023/202401142327308.png" width="60%"/>
 
-- [GitHub](https://github.com/XMuli/ThinkyMatePages/releases)         |       [Microsoft Store](https://www.bilibili.com/video/BV12a4y1z7CA)        |        [Gitee](https://gitee.com/XMuli/ThinkyMatePages/releases) 
+- [GitHub](https://github.com/XMuli/ThinkyMate/releases)         |       [Microsoft Store](https://www.bilibili.com/video/BV12a4y1z7CA)        |        [Gitee](https://gitee.com/XMuli/ThinkyMate/releases) 
 
 <br>
 
@@ -103,14 +103,14 @@ Once signed, it can be shelved on Microsoft Store; it can also be shelved on thi
 
 ## Tutorials
 
-1. [Download](https://github.com/XMuli/ThinkyMatePages/releases) the package and install it
+1. [Download](https://github.com/XMuli/ThinkyMate/releases) the package and install it
 2. Tray Mail context menu, open Advanced Settings
 3. Enter the API KEY to enable the corresponding functions, which are optional; please restart the software to ensure that it takes effect.
    - Enter the OpenAI Key to use the ChatGPT feature and the speech-to-text feature
    - Enter XunFei Key to use SparkDesk function
    - Enter BaiDu Key to use the text-to-speech function
 4. Enter your voice or text and enjoy using ChatGPT features!
-5. For more preview images see [here](https://github.com/XMuli/ThinkyMatePages/tree/master/docs/snapshoot)
+5. For more preview images see [here](https://github.com/XMuli/ThinkyMate/tree/master/docs/snapshoot)
 
 <br>
 
@@ -122,7 +122,7 @@ If it helps you, or find it useful,  **you can click on the item's ⭐Star 🍴 
 
 ## Feedback
 
-How to Feedback ? You are very welcome to join us! You can [open an issue](https://github.com/XMuli/ThinkyMatePages/issues) ; for any bug, suggestion, feature idea, or to help improve this software.
+How to Feedback ? You are very welcome to join us! You can [open an issue](https://github.com/XMuli/ThinkyMate/issues) ; for any bug, suggestion, feature idea, or to help improve this software.
 
 <br>
 
